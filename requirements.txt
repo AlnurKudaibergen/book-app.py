@@ -1,3 +1,4 @@
 streamlit
 openai
-textwrap3
+qrcode[pil]
+Pillow
